@@ -12,3 +12,5 @@ char = "X"
 board = [" ", " "," "," "," "," "," "," "," "]
 
 input_to_index(input)
+
+index = 
