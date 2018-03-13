@@ -13,6 +13,8 @@ board = [" ", " "," "," "," "," "," "," "," "]
 
 input_to_index(input)
 
+index = input
+
 move(board, index, char)
 
 display_board(board)
